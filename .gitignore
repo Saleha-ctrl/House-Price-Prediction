@@ -8,7 +8,7 @@ venv/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
-# Optional folders
+h# Optional folders
 data/
 outputs/
 
